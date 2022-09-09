@@ -1,5 +1,10 @@
 <?php
 
+$numeros = [96, 69, 245, 451, 593, 837, 11, 24];
+$soma = 0;
+foreach ($numeros as $numero) {
+    $soma += $numero;
+}
 $maior = $numeros[0];
 $menor = $numeros[0];
 $qtnumeros = 0;
