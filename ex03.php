@@ -1,4 +1,5 @@
 <?php
+
 $maiorSal = 0;
 $maiorQt = 0;
 $menorQt = 0;
